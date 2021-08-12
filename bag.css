@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    font-size: 25px;
+}
+
+#heading{
+    width: 100%;
+    margin-top:0px;
+    height: 15%;
+    font-size:50px;
+}
+#back{
+text-align:left;
+float:left;
+}
+
+#number,#status{
+    font-size:25px;
+    text-align: center;
+}
+canvas{
+    color:#2a362a;
+    border-color: mediumseagreen;
+    box-shadow: 5px 5px 5px midnightblue;
+    padding:15px;
+    margin:20px;
+}
